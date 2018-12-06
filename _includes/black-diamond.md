@@ -1,1 +1,3 @@
 ![black diamond](https://www.flaticon.com/free-icon/diamond_149829#term=diamond&page=1&position=5)
+[InternetShortcut]
+URL=https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiX_uqTgozfAhXB6oMKHfCZAzUQjRx6BAgBEAU&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icons%2Fdiamond&psig=AOvVaw2bYLjm3yH48eNWSevj1vx_&ust=1544153507788246
