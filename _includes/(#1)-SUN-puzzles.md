@@ -1,1 +1,1 @@
-![SUN puzzles]((#1)-SUN-puzzles.png)
+![SUN puzzles]((#1) SUN puzzles.png)
