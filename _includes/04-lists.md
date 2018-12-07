@@ -1,5 +1,5 @@
-red
-blue
-green
-purple
-black
+-red
+-blue
+-green
+-purple
+-black
